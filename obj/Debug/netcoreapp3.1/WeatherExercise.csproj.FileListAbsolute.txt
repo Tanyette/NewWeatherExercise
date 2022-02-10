@@ -1,0 +1,16 @@
+C:\Users\bwaff\repos\WeatherExercise\WeatherExercise\bin\Debug\netcoreapp3.1\WeatherExercise.exe
+C:\Users\bwaff\repos\WeatherExercise\WeatherExercise\bin\Debug\netcoreapp3.1\WeatherExercise.deps.json
+C:\Users\bwaff\repos\WeatherExercise\WeatherExercise\bin\Debug\netcoreapp3.1\WeatherExercise.runtimeconfig.json
+C:\Users\bwaff\repos\WeatherExercise\WeatherExercise\bin\Debug\netcoreapp3.1\WeatherExercise.runtimeconfig.dev.json
+C:\Users\bwaff\repos\WeatherExercise\WeatherExercise\bin\Debug\netcoreapp3.1\WeatherExercise.dll
+C:\Users\bwaff\repos\WeatherExercise\WeatherExercise\bin\Debug\netcoreapp3.1\WeatherExercise.pdb
+C:\Users\bwaff\repos\WeatherExercise\WeatherExercise\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\bwaff\repos\WeatherExercise\WeatherExercise\obj\Debug\netcoreapp3.1\WeatherExercise.csproj.AssemblyReference.cache
+C:\Users\bwaff\repos\WeatherExercise\WeatherExercise\obj\Debug\netcoreapp3.1\WeatherExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bwaff\repos\WeatherExercise\WeatherExercise\obj\Debug\netcoreapp3.1\WeatherExercise.AssemblyInfoInputs.cache
+C:\Users\bwaff\repos\WeatherExercise\WeatherExercise\obj\Debug\netcoreapp3.1\WeatherExercise.AssemblyInfo.cs
+C:\Users\bwaff\repos\WeatherExercise\WeatherExercise\obj\Debug\netcoreapp3.1\WeatherExercise.csproj.CoreCompileInputs.cache
+C:\Users\bwaff\repos\WeatherExercise\WeatherExercise\obj\Debug\netcoreapp3.1\WeatherExercise.csproj.CopyComplete
+C:\Users\bwaff\repos\WeatherExercise\WeatherExercise\obj\Debug\netcoreapp3.1\WeatherExercise.dll
+C:\Users\bwaff\repos\WeatherExercise\WeatherExercise\obj\Debug\netcoreapp3.1\WeatherExercise.pdb
+C:\Users\bwaff\repos\WeatherExercise\WeatherExercise\obj\Debug\netcoreapp3.1\WeatherExercise.genruntimeconfig.cache
